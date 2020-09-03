@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hello from Aimal!</h1>
+      <p>Im learning React.js</p>
 
     </div>
   );
